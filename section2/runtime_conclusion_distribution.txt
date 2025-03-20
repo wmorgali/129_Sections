@@ -1,0 +1,2 @@
+The runtime distribution varies among algorithms, with Jarvis March showing the highest variability.
+Graham Scan and QuickHull exhibit relatively stable performance, while Monotone Chain shows moderate fluctuations.
