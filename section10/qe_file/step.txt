@@ -1,0 +1,5 @@
+pw.x<pw.graphene.scf.in >pw.graphene.scf.out
+pp.x <pp.in >pp.out 
+pw.x < pw.graphene.bands.in > pw.graphene.bands.out
+pw.x < pw.graphene.bands.in > pw.graphene.bands.out
+bands.x < bands.graphene.in > bands.graphene.out
